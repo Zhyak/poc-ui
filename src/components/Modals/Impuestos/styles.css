@@ -1,0 +1,4 @@
+#regimen_impositivo_id > .MuiBox-root {
+  height: 100vh;
+  overflow: scroll;
+}

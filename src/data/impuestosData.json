@@ -1,0 +1,31 @@
+{
+    "ganancias": [{
+        "mnemonico": "SG_SF_30",
+        "provincia": "Santa Fe",
+        "tipoOpMonetaria": "Operacion No Instrumentada",
+        "fechaVigencia": "2012-04-23T18:25:43.511Z",
+        "alicuota": "30%",
+        "montoFijo":"No Aplica",
+        "tipoDeFormula": "Numerales",
+        "baseDeCalculo": "Monto Desembolsado"
+    },{
+        "mnemonico": "IG_CABA_5",
+        "provincia": "Ciudad de Bs As",
+        "tipoOpMonetaria": "Operacion Instrumentada",
+        "fechaVigencia": "2012-04-23T18:25:43.511Z",
+        "alicuota": "30%",
+        "montoFijo":"No Aplica",
+        "tipoDeFormula": "Básica",
+        "baseDeCalculo": "Monto Trasacción"
+    },{
+        "mnemonico": "IG_NAC_30",
+        "provincia": "Nacional",
+        "tipoOpMonetaria": "No Aplica",
+        "fechaVigencia": "2012-04-23T18:25:43.511Z",
+        "alicuota": "30%",
+        "montoFijo":"$1000",
+        "tipoDeFormula": "No Aplica",
+        "baseDeCalculo": "Monto Trasacción"
+    }],
+    "iva": []
+}
